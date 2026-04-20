@@ -1,1 +1,1 @@
-{"Url":"https://localhost:44319/","Request":"LicenseRequest","RequestCheck":"LicenseRequestCheck","Verify":"LicenseVerify","Report":"LicenseReport"}
+{"Url":"https://localhost:44319/","Request":"api/license-registration/request","RequestCheck":"LicenseRequestCheck","Verify":"LicenseVerify","Report":"LicenseReport"}
