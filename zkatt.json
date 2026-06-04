@@ -1,1 +1,1 @@
-{"Url":"https://213.32.23.151:448/","Request":"api/license-registration/request","RequestCheck":"api/license-registration/requestcheck","Verify":"api/license-registration/licenseverify","Report":"api/license-registration/licensereport"}
+{"Url":"https://localhost:44319/","Request":"api/license-registration/request","RequestCheck":"api/license-registration/requestcheck","Verify":"api/license-registration/licenseverify","Report":"api/license-registration/licensereport"}
